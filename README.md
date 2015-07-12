@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data science course fro coursera (Assignment 1)
+Data science course for coursera (Assignment 1)
